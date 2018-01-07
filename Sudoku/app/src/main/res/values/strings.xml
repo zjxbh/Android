@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数独</string>
+    <string name="main_title">数独小游戏</string>
+    <string name="continue_label">继续游戏</string>
+    <string name="newgame_label">开始游戏</string>
+    <string name="about_label">关于游戏</string>
+    <string name="exit_label">退出</string>
+    
+    <string name="newgame_title">难易级别</string>
+    <string name="easy_label">简单</string>
+    <string name="medium_label">一般</string>
+    <string name="hard_label">困难</string>
+    
+    <string name="game_title">数独游戏</string>
+    <string name="no_moves_label">没有可填数字</string>
+    <string name="keypad_title">数字输入选择键盘</string>
+    
+    <string name="settings_label">设置</string>
+    <string name="settings_title">数独游戏设置</string>
+    <string name="hints_title">提示</string>
+    <string name="hints_summary">游戏时显示提示</string>
+    
+    <string name="about_title">关于数独游戏</string>
+    <string name="about_text">
+        　　一个未完成的数独题，有些单元格中已经填入了值，另外的单元格则为空，等待玩家来完成。
+        玩家需要根据已知数字，推理出剩余单元格的数字，将1至9填入空的单元格，
+        并满足每一行、每一列、每一个3*3内的数字不重复。
+        </string>
+
+</resources>
